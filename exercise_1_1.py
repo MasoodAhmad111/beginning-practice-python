@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#
 def quad(x, c_val):
     return c_val * x * (1 - x)
 
